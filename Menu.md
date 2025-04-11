@@ -33,7 +33,7 @@
 |---|------------------------------------------------------------------------------|---------|------|------|
 |1. |Spaghetti Napoli (makaron z sosem pomidorowyn i serem)                        |         |[30zł]|[50zł]|
 |2. |Spaghetti Bolonia (makaron z sosem bolońskim)                                 |         |[20zł]|[46zł]|
-|3. |Spaghetti Carbonara (makaron z sosem carbonara                                |         |[28zł]|[48zł]|
+|3. |Spaghetti Carbonara (makaron z sosem carbonara)                               |         |[28zł]|[48zł]|
 
 ## Sosy
 
