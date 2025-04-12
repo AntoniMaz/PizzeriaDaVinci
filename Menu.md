@@ -25,6 +25,18 @@
 |2. |Grecka (sos pomidorowy, ser, oliwki, feta, sałata lodowa)                     |         |[21zł]|[41zł]|[51zł]|
 |3. |Barbeque (sos pomidorowy, ser, kurczak, boczek, cebula, sos barbeque, oregano)|         |[27zł]|[47zł]|[57zł]|
 
+## Pizze Wegetariańskie
+
+<img src = "img/img/pizza-wegetarianska58-4.webp" width = 300>
+
+|Lp.|Nazwa:                                                                        |Rozmiar: |30cm  | 40cm | 60cm |
+|---|------------------------------------------------------------------------------|---------|------|------|------|
+|1. |Margherita (sos pomidorowy, ser, oregano)                                     |         |[20zł]|[40zł]|[50zł}|
+|2. |Fungi (sos pomidorowy, ser, pieczarki)                                        |         |[22zł]|[42zł]|[52zł]|
+|3. |Hawajska Vege (sos pomidorowy, ser, ananas)                                   |         |[27zł]|[47zł]|[57zł]|
+|4. |Milano Vege (sos pomidorowy, ser, papryka, oregano)                           |         |[26zł]|[46zł]|[56zł]|
+|5. |Grecka (sos pomidorowy, ser, oliwki, feta, sałata lodowa)                     |         |[21zł]|[41zł]|[51zł]|
+
 ## Makarony
 
 <img src = "img/img/1500-x-750-4.png" width = 300>
@@ -34,6 +46,16 @@
 |1. |Spaghetti Napoli (makaron z sosem pomidorowyn i serem)                        |         |[30zł]|[50zł]|
 |2. |Spaghetti Bolonia (makaron z sosem bolońskim)                                 |         |[20zł]|[46zł]|
 |3. |Spaghetti Carbonara (makaron z sosem carbonara)                               |         |[28zł]|[48zł]|
+
+## Sałatki
+
+<img src = "img/img/IMG-5436.jpg" width = 300>
+
+|Lp.|Nazwa:                                                                        |Porcja : |
+|---|------------------------------------------------------------------------------|---------|
+|1. |Cezar (sałata, cebula, oliwa z oliwek, pomidor                                |[15zł]   |
+|2. |Grecka (sałata, cebula, oliwa z oliwek, pomidor, oliwki, feta                 |[20zł]   |
+|3. |Spaghetti Carbonara (makaron z sosem carbonara)                               |[25zł]   |
 
 ## Sosy
 
