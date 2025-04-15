@@ -1,3 +1,11 @@
-# Zespol
+# Zespół
 
-Opis
+## Kierownik
+
+## Kucharz
+
+## Obsługa
+
+## Dostawca
+
+## Grafik
