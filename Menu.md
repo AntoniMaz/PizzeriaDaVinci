@@ -67,6 +67,12 @@
 4. Sezamowy - 5zł
 5. Majonezowy - 5zł
 
+## Dodatki
+
+1. Cukinia - 5zł
+2. Karczochy - 6zł
+3. Krewetki - 10zł
+
 ## Napoje
 
 <img src = "img/img/napoje-puste-kalorie.jpg" width = 300>
