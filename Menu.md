@@ -69,6 +69,8 @@
 
 ## Dodatki
 
+<img src = "img/img/zdrowa_pizza_przepis_justbefit_8.webp" width = 300>
+
 1. Cukinia - 5zł
 2. Karczochy - 6zł
 3. Krewetki - 10zł
