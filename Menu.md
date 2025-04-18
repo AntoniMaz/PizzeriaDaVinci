@@ -57,7 +57,7 @@
 |2. |Grecka (sałata, cebula, oliwa z oliwek, pomidor, oliwki, feta                 |[20zł]   |
 |3. |Spaghetti Carbonara (makaron z sosem carbonara)                               |[25zł]   |
 
-## Sosy
+## Sosy 
 
 <img src = "img/img/sos-czosnkowy-01.jpg" width = 300>
 
