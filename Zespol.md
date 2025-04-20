@@ -8,6 +8,7 @@ Nasz zespół to grupa ludzi, którzy uwielbiają pizzę i Leonarda DaVinci. Jes
 ## Kucharz
    - Wawrzyniec Miron
    -  Faustyna Ruta 
+   - Bartosz Nowak
 
 ## Obsługa
    - Kazia Liwia
