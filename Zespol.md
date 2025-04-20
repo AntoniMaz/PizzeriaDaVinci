@@ -1,5 +1,7 @@
 # Zespół
 
+Nasz zespół to grupa ludzi, którzy uwielbiają pizzę i Leonarda DaVinci. Jesteśmy w naszym rzemiośle artystami i odkrywcami.
+
 ## Kierownik
   - Jan Kowalski
   
