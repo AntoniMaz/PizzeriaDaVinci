@@ -19,6 +19,7 @@ Nasz zespół to grupa ludzi, którzy uwielbiają pizzę i Leonarda DaVinci. Jes
   -  Jacek Piotr
   -   Jerzy Sulisław
   -    Jarek Jowita
+  - Adam Wysocki
 
 ## Grafik
   - Sonia Łucjan 
