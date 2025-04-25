@@ -23,3 +23,5 @@ Nasz zespół to grupa ludzi, którzy uwielbiają pizzę i Leonarda DaVinci. Jes
 
 ## Grafik
   - Sonia Łucjan 
+
+Nasze próby z poziomu Windows
